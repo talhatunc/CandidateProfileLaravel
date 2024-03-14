@@ -1,0 +1,13 @@
+.sidebar-header {
+  text-transform: uppercase;
+}
+.sidebar-link,
+a.sidebar-link {
+  padding: .5rem 1.25rem .5rem 1.5rem;
+}
+.sidebar-link i,
+.sidebar-link svg,
+a.sidebar-link i,
+a.sidebar-link svg {
+  margin-right: .5rem;
+}
